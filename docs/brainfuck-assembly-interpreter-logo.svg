@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="360"
+  height="80"
+  viewBox="0 0 360 80"
+  version="1.1">
+  <rect width="360" height="80" fill="#FFFFFF" />
+  <text
+    x="50%"
+    y="50%"
+    font-family="monospace"
+    font-size="28"
+    fill="#0000FF"
+    font-weight="bold"
+    text-anchor="middle"
+    dominant-baseline="middle">
+    ++++[->+++&lt;]+[->++++&lt;].
+  </text>
+</svg>

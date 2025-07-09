@@ -1,0 +1,25 @@
+{
+  "name": "brainfuck-assembly-interpreter",
+  "version": "0.1.0",
+  "description": "Brainfuck Assembly language interpreter",
+  "main": "src/index.ts",
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.ts"
+  },
+  "keywords": [
+    "nodejs",
+    "brainfuck",
+    "interpreter",
+    "typescript",
+    "assembly-style"
+  ],
+  "author": "Adam Burucs",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.10"
+  }
+}
