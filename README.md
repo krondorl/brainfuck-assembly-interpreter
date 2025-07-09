@@ -1,4 +1,4 @@
-<img src="docs/brainfuck-assembly-interpreter-logo.svg" width="360" height="80">
+<img src="docs/brainfuck-assembly-interpreter-logo.svg" width="100%">
 
 # Brainfuck Assembly Interpreter
 
